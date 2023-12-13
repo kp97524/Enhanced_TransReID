@@ -1,5 +1,7 @@
 **CS 771: Learning based Methods of Computer Vision - Final Project**
+
 Tasks performed as a part of this project:
+
 **Hyper-parameter Tuning with TransReID**
 We changed the JPM parameters _C.MODEL.SHIFT_NUM, and _C.MODEL.SHUFFLE_GROUP in the file /TransReID/config/defaults.py. We trained and evaluated the model using DeIT base model. The config file can be found at /TransReID/configs/Market/deit_transreid_stride.yml
 
